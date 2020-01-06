@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-# Call: rscript evolutionaryAESearch.R EX|GA|EV|RND|DE dataset
+# Call: rscript EvoAAA.R EX|GA|EV|RND|DE dataset
 
 dependencies <-
   c("compiler", "gramEvol", "wrapr", "ruta", "keras", "DEoptim")
